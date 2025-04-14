@@ -40,6 +40,14 @@ fashion_sales_analysis/
 
 ---
 
+## Sample Output
+
+![Customer Spending Patterns](charts/customer_spending_patterns.png)
+![Revenue by Month](charts/revenue_per_month.png)
+![Reviews vs. Sales](charts/review_vs_sales.png)
+
+---
+
 ## Key Insights
 
 - Revenue peaked during December and May.
