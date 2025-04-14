@@ -65,7 +65,7 @@ fashion_sales_analysis/
 
 ---
 
-## 🧠 Future Ideas
+## Future Ideas
 
 - Create a Streamlit dashboard for interactive data exploration
 - Add SQL support for querying data
@@ -73,7 +73,7 @@ fashion_sales_analysis/
 
 ---
 
-## 🙌 Author
+## Author
 
 **Gabe Gamble**  
 Built for a personal portfolio and to explore real-world Python data analysis.
