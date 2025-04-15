@@ -88,4 +88,4 @@ Built for a personal portfolio and to explore real-world Python data analysis.
 
 ---
 
-Let me know if you want a version with screenshots or badges. Once that’s saved, you’re ready to push everything to GitHub! Want help with the push?
+
