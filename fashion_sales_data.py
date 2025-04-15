@@ -210,7 +210,9 @@ def plot_review_vs_sales(datafile): # Correlate customer spending with review ra
     plt.tight_layout()
     plt.show()
 
-plot_customer_spending_patters(sales_data)
+
+
+
 
 
 
