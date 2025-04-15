@@ -49,6 +49,14 @@ fashion_sales_analysis/
 
 ---
 
+## Sample Output
+
+![Customer Spending Patterns](charts/customer_spending_patterns.png)
+![Revenue by Month](charts/revenue_per_month.png)
+![Reviews vs. Sales](charts/review_vs_sales.png)
+
+---
+
 ## Key Insights
 
 - Revenue peaked during December and May.
@@ -74,7 +82,7 @@ fashion_sales_analysis/
 
 ---
 
-## 🧠 Future Ideas
+## Future Ideas
 
 - Create a Streamlit dashboard for interactive data exploration
 - Add SQL support for querying data
@@ -82,11 +90,11 @@ fashion_sales_analysis/
 
 ---
 
-## 🙌 Author
+## Author
 
 **Gabe Gamble**  
 Built for a personal portfolio and to explore real-world Python data analysis.
 
 ---
 
-Let me know if you want a version with screenshots or badges. Once that’s saved, you’re ready to push everything to GitHub! Want help with the push?
+
